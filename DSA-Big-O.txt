@@ -1,0 +1,99 @@
+==================================================================================================
+1. What is the Big O for this?
+    >   Constant time O(i) because it's selecting one object from the array.
+    >   Linear time O(n) because you're looping through the entire array.
+==================================================================================================
+
+
+==================================================================================================
+2. Even Or Odd
+    >   Constant time O(i) because only one section is occuring one time, no matter what the value 
+        of value is.
+==================================================================================================
+
+
+==================================================================================================
+3. Are you here?
+    >   Polynomial time O(n^2) because the functon includes nested loops with linear iterations.
+==================================================================================================
+
+
+==================================================================================================
+4. Doubler
+    >   Linear time O(n) because the function grows linearly based upon length of the array.
+==================================================================================================
+
+
+==================================================================================================
+5. Naive Search
+    >   Linear time O(n) because it is a linear search through the array.
+==================================================================================================
+
+
+==================================================================================================
+6. Creating Pairs
+    >   Polynomial time O(n^2) because of the nested linear operations.
+==================================================================================================
+
+
+==================================================================================================
+7. Compute the Sequence
+    >   Linear time O(n) because the function linearly loops through the result array.
+    >   On the first iteration, we push 0 to the end of the array. On the second, we push 1. All 
+        others push the next value in the fibonacci sequence
+==================================================================================================
+
+
+==================================================================================================
+8. An Efficient Search
+    >   Logarithmic time O(log(n)) because the subset to search gets smaller after each iteration.
+==================================================================================================
+
+
+==================================================================================================
+9. Random Element
+    >   Constant time O(i) because it's not dependent on length.
+==================================================================================================
+
+
+==================================================================================================
+10. What am I?
+    >   The function checks to see if the input number is not a prime number. 
+    >   Linear time O(n)
+==================================================================================================
+
+
+==================================================================================================
+11. Tower of Hanoi
+==================================================================================================
+
+
+==================================================================================================
+12. Iterative Version
+==================================================================================================
+
+
+==================================================================================================
+13. Recusrive Big O
+    >   Counting Sheep - Linear time O(n)
+    >   Reverse String - Linear time O(n)
+    >   nth Triangular number - Linear time O(n)
+    >   String Splitter - Linear time O(n)
+    >   Fibonacci - Linear time O(n)
+    >   Factorial - Linear time O(n)
+    >   Anagrams - Linear time O(n)
+    >   Organization Chart - Polynomial time O(n^2)
+    >   Binary Representation - Linear time O(n)
+==================================================================================================
+
+
+==================================================================================================
+14. Iterative Big O
+    >   Counting Sheep - Linear time O(n)
+    >   Reverse String - Linear time O(n)
+    >   nth Triangular number - Linear time O(n)
+    >   String Splitter - Linear time O(n)
+    >   Fibonacci - Linear time O(n)
+    >   Factorial - Linear time O(n)
+    >   Binary Representation - Linear time O(n)
+==================================================================================================
